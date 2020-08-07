@@ -2,9 +2,9 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
-$client_secret = ""; //CLIENT SECRET HERE
-$redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
+$client_id     = ""; //741216572936290315 
+$client_secret = ""; //HKXgfjTzoEiGB-AWIBYPKWMiJ2k3i1FT
+$redirect      = ""; //https://www.youtube.com/channel/UCOr6nH4JwuO-6X5KVI70DAw
 
 function get_ip_address()
 {
